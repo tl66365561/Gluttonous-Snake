@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <windows.h>
+//#include <windows.h>
 
 // 移动光标到x，y处，注意，这里是相对整个屏幕的，而不是游戏区域的
 static void _SetPos(int x, int y);
